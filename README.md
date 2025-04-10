@@ -1,1 +1,1 @@
-Test reasdme souboru
+Test readme souboru
